@@ -1,0 +1,20 @@
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csprojResolveAssemblyReference.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.frmCLIENT.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.frmCLIENT.resources
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.pdb

@@ -1,0 +1,40 @@
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.exe.config
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.pdb
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csprojResolveAssemblyReference.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.Form1.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.pdb
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\bin\Debug\CHAT.exe.config
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\bin\Debug\CHAT.exe
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\bin\Debug\CHAT.pdb
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.Form1.resources
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.exe
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.pdb
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\bin\Debug\CHAT.exe.config
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\bin\Debug\CHAT.exe
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\bin\Debug\CHAT.pdb
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\obj\Debug\SERVER.csproj.AssemblyReference.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.Form1.resources
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.exe
+C:\Users\ptuan\OneDrive\Máy tính\CHAT qua socket C\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.pdb
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\bin\Debug\CHAT.exe.config
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\bin\Debug\CHAT.exe
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\bin\Debug\CHAT.pdb
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\obj\Debug\CHAT.Form1.resources
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\obj\Debug\CHAT.exe
+C:\Users\ptuan\OneDrive\Máy tính\SendFile\SERVER\obj\Debug\CHAT.pdb
